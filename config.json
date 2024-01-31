@@ -1,0 +1,14 @@
+{
+    "database" : {
+        "connectionLimit" : 99,
+        "host": "51.68.122.118",
+        "port": 2126,
+        "user": "api",
+        "password": "Joidk2126",
+        "database": "fits",
+        "debug" : false
+    },
+    "server" : {
+        "port" : 62126
+    }
+}
